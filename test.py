@@ -1,9 +1,7 @@
 import unittest
 from converter import roman_to_decimal
 
-# Example function to be tested
-# def roman_to_decimal(roman):
-#     pass  # Replace with the actual implementation
+# test script kindly provided by chatGPT
 
 class TestRomanToDecimalConverter(unittest.TestCase):
     
